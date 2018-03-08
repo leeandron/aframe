@@ -54,4 +54,4 @@
 
 ## v0.1.0 (December 16, 2015)
 
-* Initial public release
+* Initial public release 
